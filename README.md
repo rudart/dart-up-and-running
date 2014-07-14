@@ -11,7 +11,7 @@
 - [x] [Обзор языка. Управление потоком программы](http://rudart.in/up-and-running/89/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#control-flow-statements))
 - [x] [Обзор языка. Исключения](http://rudart.in/up-and-running/93/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#exceptions))
 - [ ] Обзор языка. Классы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#classes)) - *Редактирование перевода*
-- [ ] Обзор языка. Generics ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#generics))
+- [ ] Обзор языка. Generics ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#generics)) - *Переводится*
 - [ ] Обзор языка. Библиотеки и видимость ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#libraries))
 - [ ] Обзор языка. Isolates ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#isolates))
 - [ ] Обзор языка. Typedefs ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#typedefs))
