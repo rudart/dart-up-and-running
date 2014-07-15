@@ -15,7 +15,7 @@
 - [ ] Обзор языка. Библиотеки и видимость ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#libraries))
 - [ ] Обзор языка. Isolates ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#isolates)) - *Переведено, не опубликовано*
 - [ ] Обзор языка. Typedefs ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#typedefs))
-- [ ] Обзор языка. Метаданные ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-metadata)) - *Переводится*
+- [ ] Обзор языка. Метаданные ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-metadata)) - *Переведено. Редактируется.*
 - [ ] Обзор языка. Комментарии ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#comments)) - *Переводится*
 
 ## Глава 3
