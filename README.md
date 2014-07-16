@@ -20,7 +20,7 @@
 
 ## Глава 3
 
-- [ ] dart:core. Числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers))
+- [ ] dart:core. Числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers)) - *Переводится*
 - [ ] dart:core. Строки и регулярные выражения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions))
 - [ ] dart:core. Коллекции ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections))
 - [ ] dart:core. URI ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri))
