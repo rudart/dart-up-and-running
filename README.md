@@ -22,7 +22,7 @@
 
 - [ ] dart:core. Числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers)) - *Переведено. Редактирование перевода.*
 - [ ] dart:core. Строки и регулярные выражения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions)) - *Переводится*
-- [ ] dart:core. Коллекции ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections))
+- [ ] dart:core. Коллекции ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections)) - *Переводится*
 - [ ] dart:core. URI ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri))
 - [ ] dart:core. Дата и время ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-dates-and-times))
 - [ ] dart:core. Вспомогательные классы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces))
