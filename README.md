@@ -13,16 +13,16 @@
 - [x] [Обзор языка. Классы](http://rudart.in/up-and-running/100/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#classes))
 - [x] [Обзор языка. Generics](http://rudart.in/up-and-running/107/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#generics))
 - [ ] Обзор языка. Библиотеки и видимость ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#libraries))
-- [ ] Обзор языка. Isolates ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#isolates)) - *Переведено, не опубликовано*
-- [ ] Обзор языка. Typedefs ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#typedefs)) - *Переведено. Редактируется.*
-- [ ] Обзор языка. Метаданные ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-metadata)) - *Переведено. Редактируется.*
-- [ ] Обзор языка. Комментарии ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#comments)) - *Переводится*
+- [x] [Обзор языка. Isolates](http://rudart.in/up-and-running/112/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#isolates)) - *Переведено, не опубликовано*
+- [x] [Обзор языка. Typedefs](http://rudart.in/up-and-running/115/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#typedefs)) - *Переведено, не опубликовано*
+- [x] [Обзор языка. Метаданные](http://rudart.in/up-and-running/119/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-metadata)) - *Переведено, не опубликовано*
+- [ ] Обзор языка. Комментарии ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#comments)) - *Переведено.*
 
 ## Глава 3
 
-- [ ] dart:core. Числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers))
-- [ ] dart:core. Строки и регулярные выражения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions))
-- [ ] dart:core. Коллекции ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections))
+- [ ] dart:core. Числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers)) - *Переведено. Редактирование перевода.*
+- [ ] dart:core. Строки и регулярные выражения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions)) - *Переводится*
+- [ ] dart:core. Коллекции ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections)) - *Переводится*
 - [ ] dart:core. URI ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri))
 - [ ] dart:core. Дата и время ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-dates-and-times))
 - [ ] dart:core. Вспомогательные классы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces))
