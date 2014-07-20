@@ -12,7 +12,7 @@
 - [x] [Обзор языка. Исключения](http://rudart.in/up-and-running/93/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#exceptions))
 - [x] [Обзор языка. Классы](http://rudart.in/up-and-running/100/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#classes))
 - [x] [Обзор языка. Generics](http://rudart.in/up-and-running/107/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#generics))
-- [ ] Обзор языка. Библиотеки и видимость ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#libraries)) - *Переводится*
+- [ ] Обзор языка. Библиотеки и видимость ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#libraries)) - *Переведено*
 - [x] [Обзор языка. Isolates](http://rudart.in/up-and-running/112/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#isolates))
 - [x] [Обзор языка. Typedefs](http://rudart.in/up-and-running/115/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#typedefs))
 - [x] [Обзор языка. Метаданные](http://rudart.in/up-and-running/119/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-metadata)) - *Переведено, не опубликовано*
