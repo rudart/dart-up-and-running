@@ -16,7 +16,7 @@
 - [x] [Обзор языка. Isolates](http://rudart.in/up-and-running/112/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#isolates))
 - [x] [Обзор языка. Typedefs](http://rudart.in/up-and-running/115/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#typedefs))
 - [x] [Обзор языка. Метаданные](http://rudart.in/up-and-running/119/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-metadata))
-- [x] [Обзор языка. Комментарии](http://rudart.in/up-and-running/134/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#comments)) - *Переведено, не опубликовано*
+- [x] [Обзор языка. Комментарии](http://rudart.in/up-and-running/134/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#comments))
 
 ## Глава 3
 
