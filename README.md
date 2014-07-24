@@ -21,9 +21,9 @@
 ## Глава 3
 
 - [x] [dart:core. Числа](http://rudart.in/up-and-running/137/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers)) - *Переведено, не опубликовано*
-- [ ] dart:core. Строки и регулярные выражения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions)) - *Переведено, не опубликовано*
+- [x] [dart:core. Строки и регулярные выражения](http://rudart.in/up-and-running/141/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions)) - *Переведено, не опубликовано*
 - [ ] dart:core. Коллекции ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections)) - *Переводится*
-- [ ] dart:core. URI ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri))
+- [ ] dart:core. URI ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri)) - *Переводится*
 - [ ] dart:core. Дата и время ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-dates-and-times))
 - [ ] dart:core. Вспомогательные классы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces))
 - [ ] dart:core. Исключения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions))
