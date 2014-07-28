@@ -88,15 +88,15 @@ assert(ingredients.length == 2);
 
 Методы `contains()` и `containsAll()` служат для проверки существования элемента в наборе.
  
- ```java
- var ingredients = new Set();
- ingredients.addAll(['gold', 'titanium', 'xenon']);
+```java
+var ingredients = new Set();
+ingredients.addAll(['gold', 'titanium', 'xenon']);
  
- // Проверка, содержится ли элемент в наборе.
- assert(ingredients.contains('titanium'));
- 
- // Проверка существования всех элементов в наборе.
- assert(ingredients.containsAll(['titanium', 'xenon']));
+// Проверка, содержится ли элемент в наборе.
+assert(ingredients.contains('titanium'));
+
+// Проверка существования всех элементов в наборе.
+assert(ingredients.containsAll(['titanium', 'xenon']));
 ```
  
  Метод `intersection()` возвращает ряд, который содержит элементы находящиеся в двух других рядах.
