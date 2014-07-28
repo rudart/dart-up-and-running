@@ -25,7 +25,7 @@
 - [x] [dart:core. Коллекции](http://rudart.in/up-and-running/146/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections)) - *Переведено, не опубликовано*
 - [x] [dart:core. URI]( http://rudart.in/up-and-running/152/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri)) - *Переведено, не опубликовано*
 - [ ] dart:core. Дата и время ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-dates-and-times)) - *Переводится*
-- [ ] dart:core. Вспомогательные классы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces)) - *Переведено, редактирование перевода*
+- [ ] dart:core. Вспомогательные классы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces)) - *Переведено*
 - [ ] dart:core. Исключения ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions)) - *Переведено*
 - [ ] dart:async. Future ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-futures))
 - [ ] dart:async. Stream ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams))
