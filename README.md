@@ -22,13 +22,13 @@
 
 - [x] [dart:core. Числа](http://rudart.in/up-and-running/137/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers))
 - [x] [dart:core. Строки и регулярные выражения](http://rudart.in/up-and-running/141/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions))
-- [x] [dart:core. Коллекции](http://rudart.in/up-and-running/146/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections)) - *Переведено, не опубликовано*
+- [x] [dart:core. Коллекции](http://rudart.in/up-and-running/146/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections))
 - [x] [dart:core. URI]( http://rudart.in/up-and-running/152/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri)) - *Переведено, не опубликовано*
 - [ ] dart:core. Дата и время ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-dates-and-times)) - *Переведено*
 - [x] [dart:core. Вспомогательные классы](http://rudart.in/up-and-running/155/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces)) - *Переведено, не опубликовано*
 - [x] [dart:core. Исключения](http://rudart.in/up-and-running/159/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions)) - *Переведено, не опубликовано*
 - [ ] dart:async. Future ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-futures)) - *Переводится*
-- [ ] dart:async. Stream ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams))
+- [ ] dart:async. Stream ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams)) - *Переводится*
 - [ ] dart:async. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-9))
 - [ ] dart:math. Тригонометрия ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-trigonometry))
 - [ ] dart:math. Максимум и минимум ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-maximum-and-minimum))
