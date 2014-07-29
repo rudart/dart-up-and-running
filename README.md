@@ -28,7 +28,7 @@
 - [x] [dart:core. Вспомогательные классы](http://rudart.in/up-and-running/155/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces)) - *Переведено, не опубликовано*
 - [x] [dart:core. Исключения](http://rudart.in/up-and-running/159/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions)) - *Переведено, не опубликовано*
 - [ ] dart:async. Future ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-futures)) - *Переводится*
-- [ ] dart:async. Stream ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams)) - *Переведено*
+- [x] [dart:async. Stream](http://rudart.in/up-and-running/165/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams)) - *Переведено, не опубликовано*
 - [ ] dart:async. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-9))
 - [ ] dart:math. Тригонометрия ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-trigonometry))
 - [ ] dart:math. Максимум и минимум ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-maximum-and-minimum))
