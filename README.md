@@ -29,12 +29,11 @@
 - [x] [dart:core. Исключения](http://rudart.in/up-and-running/159/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions)) - *Переведено, не опубликовано*
 - [ ] dart:async. Future ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-futures)) - *Переводится*
 - [x] [dart:async. Stream](http://rudart.in/up-and-running/165/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams)) - *Переведено, не опубликовано*
-- [ ] dart:async. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-9))
-- [ ] dart:math. Тригонометрия ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-trigonometry)) - *Переводится*
-- [ ] dart:math. Максимум и минимум ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-maximum-and-minimum)) - *Переводится*
-- [ ] dart:math. Математические константы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-math-constants)) - *Переводится*
-- [ ] dart:math. Случайные числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-random-numbers)) - *Переводится*
-- [ ] dart:math. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-7)) - *Переводится*
+- [ ] dart:math. Тригонометрия ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-trigonometry)) - *Переведено*
+- [ ] dart:math. Максимум и минимум ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-maximum-and-minimum)) - *Переведено*
+- [ ] dart:math. Математические константы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-math-constants)) - *Переведено*
+- [ ] dart:math. Случайные числа ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-random-numbers)) - *Переведено*
+- [ ] dart:math. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-7)) - *Переведено*
 - [ ] dart:html. Работа с DOM ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-manipulating-the-dom))
 - [ ] dart:html. Использование HTTP Resources из HttpRequest ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-httprequest))
 - [ ] dart:html. Отправка и получение данных с помощью websockets ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-websockets))
