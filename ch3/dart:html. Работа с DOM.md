@@ -29,3 +29,34 @@ List<Element> elems2 = querySelectorAll('input[type="text"]'); // Отбираю
    ```
    <a id="example" href="http://example.com">Текст ссылки</a>
    ```
+Тег <a> определяет элемент с href атрибутом и текстовым узлом (доступным через свойства) который содержит текст "Текст ссылки". Для изменения URL ссылки может быть использовано свойство href объекта AnchorElement:
+```
+querySelector('#example').href = 'http://dartlang.org';
+```
+
+Часто бывает необходимо установить свойства для многих элементов. Например, следующий код устанавливает скрытое свойство всех элементов которые имеют класс "mac", "win" или "linux". Установка hidden своства в значении true имеет тот же эффект что и display:none в CSS.
+
+```
+<!-- In HTML: -->
+<p>
+  <span class="os linux">Words for Linux</span>
+  <span class="os mac">Words for Mac</span>
+  <span class="os win">Words for Windows</span>
+</p>
+// In Dart:
+final osList = ['mac', 'win', 'linux'];
+
+var userOs = 'linux'; // В реальном коде нужно определять это програмный путем.
+
+for (var os in osList) {            // Для каждой возможной OS...
+  bool shouldShow = (os == userOs); // Проверяется соответствует ли эта os os пользователя 
+  for (var elem in querySelectorAll('.$os')) { // Находятся все элементы для этой OS.
+    elem.hidden = !shouldShow;      // Каждый элемент можно скрыть или показать.
+  }
+}
+```
+
+Когда нужное свойство не доступно или отсутствует, Вы можете использовать атрибуты свойств элементов. Эти свойства записываются как хеш Map<String, String>, где ключи это и есть имена атрибутов. Что бы увидеть весь список атрибутов и их значений см. MDN на странице посвященной атрибутам. Вот пример установки значения атрибута: 
+```
+elem.attributes['someAttribute'] = 'someValue';
+```
