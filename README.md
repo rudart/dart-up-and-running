@@ -34,8 +34,8 @@
 - [x] [dart:math. Математические константы](http://rudart.in/up-and-running/168/#_2) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-math-constants)) - *Переведено, не опубликовано*
 - [x] [dart:math. Случайные числа](http://rudart.in/up-and-running/168/#_3) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-random-numbers)) - *Переведено, не опубликовано*
 - [x] [dart:math. Дополнительная информация](http://rudart.in/up-and-running/168/#_4) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-7)) - *Переведено, не опубликовано*
-- [ ] dart:html. Работа с DOM ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-manipulating-the-dom))- *Переводится*
-- [ ] dart:html. Использование HTTP Resources из HttpRequest ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-httprequest))
+- [ ] dart:html. Работа с DOM ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-manipulating-the-dom))- *Переведено*
+- [ ] dart:html. Использование HTTP Resources из HttpRequest - *Переводится* ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-httprequest))
 - [ ] dart:html. Отправка и получение данных с помощью websockets ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-websockets))
 - [ ] dart:html. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-html))
 - [ ] dart:io. Файлы и папки ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-files-and-directories))
