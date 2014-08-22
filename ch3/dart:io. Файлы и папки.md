@@ -38,3 +38,42 @@ main() {
 }
 ```
 
+## Обработка ошибок
+Для перехвата ошибки, что бы они не приводили к необработанным исключениям, Вы можете зарегистрировать обработчик *catchError*:
+
+```
+import 'dart:io';
+
+main() {
+  var config = new File('config.txt');
+  config.readAsString().then((String contents) {
+    print(contents);
+  }).catchError((e) {
+    print(e);
+  });
+}
+```
+
+## Потоковая передача содержания файла
+Используейте Stream для быстрого чтения файла. Метод *Listen()* определяет обработчик который будет вызван при поступлении данных (если они есть). Когда поток данных завержится, запустится метод onDone().
+
+```
+import 'dart:io';
+import 'dart:convert';
+import 'dart:async';
+
+main() {
+  var config = new File('config.txt');
+  Stream<List<int>> inputStream = config.openRead();
+
+  inputStream
+    .transform(UTF8.decoder)
+    .transform(new LineSplitter())
+    .listen(
+      (String line) { 
+        print('Получено ${line.length} символов из потока');
+      },
+      onDone: () { print('теперь файл закрыт'); },
+      onError: (e) { print(e.toString()); });
+}
+```
