@@ -77,3 +77,21 @@ main() {
       onError: (e) { print(e.toString()); });
 }
 ```
+
+## Запись содержимого в файл
+Для записи данных в файл Вы можете использовать [IOSink](http://api.dartlang.org/dart_io/IOSink.html). Объект IOSink можно получить воспользовавшись методом *openWrite()* класса File. Режим в котором обычно работает метод этого объекта *FileMode.WRITE*, полностью переписывает имеющиеся данные в файле.
+
+```
+var logFile = new File('log.txt');
+var sink = logFile.openWrite();
+sink.write('FILE ACCESSED ${new DateTime.now()}\n');
+sink.close();
+```
+
+Для того что бы данные в файле не переписывались а добавлялись в конце, используется параметр *mode*  - *FileMode.APPEND*:
+
+```
+var sink = logFile.openWrite(mode: FileMode.APPEND); 
+```
+
+Для записи бинарного код, используется *add(List<int> date).
