@@ -37,9 +37,9 @@
 - [ ] dart:html. Работа с DOM ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-manipulating-the-dom)) - *Переведено*
 - [ ] dart:html. Использование HTTP Resources из HttpRequest ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-httprequest)) - *Переведено*
 - [ ] dart:html. Отправка и получение данных с помощью websockets ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-websockets)) - *Переведено*
-- [ ] dart:html. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-html)) - *Переводится*
-- [ ] dart:io. Файлы и папки ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-files-and-directories)) - *Переводится*
-- [ ] dart:io. HTTP-киленты и сервера ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-io-http))
+- [ ] dart:html. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-html)) - *Переведено*
+- [ ] dart:io. Файлы и папки ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-files-and-directories)) - *Переведено*
+- [ ] dart:io. HTTP-киленты и сервера ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-io-http)) - *Переводится*
 - [ ] dart:io. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-io))
 - [ ] dart:convert. Кодирование и декодирование JSON ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-json))
 - [ ] dart:convert. Кодирование и декодирование символов UTF-8 ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf))
