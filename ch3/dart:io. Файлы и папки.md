@@ -94,4 +94,37 @@ sink.close();
 var sink = logFile.openWrite(mode: FileMode.APPEND); 
 ```
 
-Для записи бинарного код, используется *add(List<int> date).
+Для записи бинарного код, используется * add(List<int> date)*.
+
+## Просмотр файлов в каталоге
+Просмотр файлов и каталогов в папке является асинхронной операцией. Метод List() возвращяет объект типа Stream, к нему можно подключать обработчики событий (метод Listen() ) для получения информации когда в папке находится файл или каталог.
+
+```
+import 'dart:io';
+import 'dart:async';
+
+main() {
+  var dir = new Directory('/tmp');
+  var contentsStream = dir.list(recursive:true);
+  contentsStream.listen(
+    (FileSystemEntity f) {
+      if (f is File) {
+        print('Файл найден ${f.path}');
+      } else if (f is Directory) {
+        print('Найден каталог ${f.path}');
+      }
+    },
+    onError: (e) { print(e.toString()); }
+  );
+}
+```
+
+## Остальные общие функции
+Классы File и Directory содержат и другие функциональные возможности, включая следующие:
+
+- Создание файла или каталога: *Create()* для File и Directory
+- Удаление файла или каталога: *Delete()* для File и Directory
+- Получение длины файла: *Length()* для File
+- Получение случайного доступа к файлу: *Open ()* для File
+
+Полный список API для [File](http://api.dartlang.org/io/File.html) и [Directory](http://api.dartlang.org/io/Directory.html)
