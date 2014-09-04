@@ -41,8 +41,8 @@
 - [ ] dart:io. Файлы и папки ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-files-and-directories)) - *Переведено*
 - [ ] dart:io. HTTP-киленты и сервера ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-io-http)) - *Переведено*
 - [ ] dart:io. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-io))
-- [ ] dart:convert. Кодирование и декодирование JSON ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-json)) - *Переводится*
-- [ ] dart:convert. Кодирование и декодирование символов UTF-8 ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf))
+- [ ] dart:convert. Кодирование и декодирование JSON ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-json)) - *Переведено*
+- [ ] dart:convert. Кодирование и декодирование символов UTF-8 ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf)) - *Переводится*
 - [ ] dart:convert. Другие возможности ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf-other))
 - [ ] dart:mirrors. Символы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-symbols))
 - [ ] dart:mirrors. Самоанализ ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-introspection))
