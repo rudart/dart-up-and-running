@@ -38,7 +38,7 @@
 - [x] [dart:html. Использование HTTP Resources из HttpRequest](http://rudart.in/up-and-running/185/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-httprequest)) - *Переведено*
 - [x] [dart:html. Отправка и получение данных с помощью websockets]( http://rudart.in/up-and-running/189/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-websockets)) - *Переведено*
 - [ ] dart:html. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-html)) - *Переведено*
-- [ ] dart:io. Файлы и папки ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-files-and-directories)) - *Переведено*
+- [x] [dart:io. Файлы и папки](http://rudart.in/up-and-running/193/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-files-and-directories)) - *Переведено, не опубликовано*
 - [ ] dart:io. HTTP-киленты и сервера ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-io-http)) - *Переведено*
 - [ ] dart:io. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-io))
 - [ ] dart:convert. Кодирование и декодирование JSON ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-json)) - *Переведено*
