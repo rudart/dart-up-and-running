@@ -44,7 +44,7 @@
 - [x] [dart:convert. Кодирование и декодирование JSON](http://rudart.in/up-and-running/199/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-json)) - *Переведено*
 - [ ] dart:convert. Кодирование и декодирование символов UTF-8 ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf)) - *Переводится*
 - [ ] dart:convert. Другие возможности ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf-other))
-- [ ] dart:mirrors. Символы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-symbols))
+- [ ] dart:mirrors. Символы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-symbols)) - *Переводится*
 - [ ] dart:mirrors. Самоанализ ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-introspection))
 - [ ] dart:mirrors. Вызовы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-invocation))
 - [ ] dart:mirrors. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-mirrors))
