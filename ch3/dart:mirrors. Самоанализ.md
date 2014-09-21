@@ -22,7 +22,7 @@ class Person {
 
 ## Class Mirrors
 
-Отразите тип, чтобы получить его `ClassMirror`.
+Отразите тип, чтобы получить его отражение класса `ClassMirror`.
 
 ```java
 ClassMirror mirror = reflectClass(Person);
@@ -74,7 +74,7 @@ showFields(ClassMirror mirror) {
 
 ## Instance Mirrors
 
-Отразите объект, чтобы получить `InstanceMirror`.
+Отразите объект, чтобы получить объект с его отражением типа `InstanceMirror`.
 
 ```java
 var p = new Person('Bob', 'Smith', 42);
