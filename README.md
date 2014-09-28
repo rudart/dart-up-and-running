@@ -23,10 +23,10 @@
 - [x] [dart:core. Числа](http://rudart.in/up-and-running/137/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-numbers))
 - [x] [dart:core. Строки и регулярные выражения](http://rudart.in/up-and-running/141/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-strings-and-regular-expressions))
 - [x] [dart:core. Коллекции](http://rudart.in/up-and-running/146/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-collections))
-- [x] [dart:core. URI]( http://rudart.in/up-and-running/152/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri)) - *Переведено, не опубликовано*
+- [x] [dart:core. URI]( http://rudart.in/up-and-running/152/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-uri)) - *Переведено*
 - [x] [dart:core. Дата и время](http://rudart.in/up-and-running/162/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-dates-and-times))
-- [x] [dart:core. Вспомогательные классы](http://rudart.in/up-and-running/155/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces)) - *Переведено, не опубликовано*
-- [x] [dart:core. Исключения](http://rudart.in/up-and-running/159/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions)) - *Переведено, не опубликовано*
+- [x] [dart:core. Вспомогательные классы](http://rudart.in/up-and-running/155/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utility-interfaces)) - *Переведено*
+- [x] [dart:core. Исключения](http://rudart.in/up-and-running/159/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-exceptions)) - *Переведено*
 - [x] [dart:async. Future](http://rudart.in/up-and-running/177/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-futures)) - *Переведено*
 - [x] [dart:async. Stream](http://rudart.in/up-and-running/165/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-streams)) - *Переведено*
 - [x] [dart:math. Тригонометрия](http://rudart.in/up-and-running/168/#_0) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-trigonometry)) - *Переведено*
