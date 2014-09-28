@@ -46,5 +46,5 @@
 - [ ] dart:convert. Другие возможности ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-utf-other))
 - [x] [dart:mirrors. Символы](http://rudart.in/up-and-running/203/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-symbols)) - *Переведено*
 - [x] [dart:mirrors. Самоанализ](http://rudart.in/up-and-running/209/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-introspection)) - *Переведено*
-- [ ] dart:mirrors. Вызовы ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-invocation)) - *Переводится*
+- [x] [dart:mirrors. Вызовы](http://rudart.in/up-and-running/217/) ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-mirrors-invocation)) - *Переведено*
 - [ ] dart:mirrors. Дополнительная информация ([оригинал](https://www.dartlang.org/docs/dart-up-and-running/contents/ch03.html#ch03-more-information-mirrors))
