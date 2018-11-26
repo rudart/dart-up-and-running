@@ -1,3 +1,5 @@
+*This project has moved to archive*
+
 - [x] Быстрый старт
 
 ## Глава 2
